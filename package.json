@@ -1,0 +1,17 @@
+{
+  "name": "VIMC",
+  "version": "1.0.0",
+  "description": "Veja seu IMC",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Gabriel Alves & Taína Fernanda",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^13.0.4"
+  }
+}
+
+
